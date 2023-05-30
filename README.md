@@ -1,5 +1,5 @@
 # Login_Registration_page
-Login and registration page usiing servlets and jsp
+Login and registration page using servlets and jsp
 ![bg width:1000px](./signin.png)
 Login Page is very common among any type of secured applications and its widely used on the internet for authenticating the user before presenting the secured pages of the web applications. 
 A login screen is a web page or an entry page to a web/mobile application that requires user identification and authentication, regularly performed by entering a username and password combination.
@@ -7,13 +7,14 @@ A login screen is a web page or an entry page to a web/mobile application that r
 1. [Abstract](#Abstract)
 2. [Introduction](#Introduction)
 3. [Getting Started](#GettingStarted)
-4. [Steps to Develop loginpage](#Steps_to_Develop_loginpage)
-5. [Login page and Registration page usage](#Login_page_and_Registration_page_usage)
-6. [Deployment](#Deployment)
-7. [Flowchart](#Flowchart)
-8. [Contributing](#Contributing)
-9. [Authors](#Authors)
-10. [Acknowledgements](#Acknowledgements)
+4. [Technology used](#TechnologyUsed)
+5. [Steps to Develop loginpage](#Steps_to_Develop_loginpage)
+6. [Login page and Registration page usage](#Login_page_and_Registration_page_usage)
+7. [Deployment](#Deployment)
+8. [Flowchart](#Flowchart)
+9. [Contributing](#Contributing)
+10. [Authors](#Authors)
+11. [Acknowledgements](#Acknowledgements)
 
 ## Abstract
 Completed to the login page and registration page.Login Page is the page where you can get authenticated before the access of the application.Login Page takes user input and passes the data to server-side program. The authentication is done by server-side program and authentication results (message) is displayed to user on the website site login form. If user is authenticated they are forwarded to the secure section of the website.
@@ -26,6 +27,15 @@ Once client-side validations are over, entered credentials are checked against t
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
+##Technology Used
+ 1.Java
+ 2.HTML
+ 3.CSS
+ 4.JavaScrpit
+ Using servlets and jsp for creating this project.
+
 
 ##  Prerequisites
 1. EclipseIDE Installation
@@ -52,7 +62,8 @@ Step 6) Click on “Eclipse IDE for Java Developers”
 Step 7) Click on “INSTALL” button
 Step 8) Click on “LAUNCH” button
 
-#Login page and Registration page usage
+##Login page and Registration page usage
+
  Form-Tag:-The <form> tag is used to create a form for user.In this project we use form tag for login and registration page.here user can input their information for registration.
   
  Input-Field:-Input tag specifies an input field where the user can enter data.The <input> element is the most important form element.In this project
@@ -62,7 +73,12 @@ Step 8) Click on “LAUNCH” button
    Buttons:-In this project we use multiple buttons.Like the login button is use for log-in in website.Using a register button to register user information.
   
  ## Deployment
+   For crating an account:-
+    ![bg width:500px](./information.png)
+   For Signin:-
    ![bg width:500px](./login.png)
+   ![bg width:500px](./information2.png)
+   After signin:-
    ![bg width:500px](./portfolio.png) 
    ![bg width:500px](./portfolio2.png) 
 
