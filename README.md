@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
   2. HTML
   3. CSS
   4. JavaScrpit
-   Using servlets and jsp for creating this project.
+      Also Using servlets and jsp for creating this project.
 
 
 ##  Prerequisites
