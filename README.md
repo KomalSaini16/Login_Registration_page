@@ -62,15 +62,15 @@ Step 6) Click on “Eclipse IDE for Java Developers”
 Step 7) Click on “INSTALL” button
 Step 8) Click on “LAUNCH” button
 
-##Login page and Registration page usage
+## Login page and Registration page usage
 
- Form-Tag:-The <form> tag is used to create a form for user.In this project we use form tag for login and registration page.here user can input their information for registration.
+ Form-Tag:- The <form> tag is used to create a form for user.In this project we use form tag for login and registration page.here user can       input their information for registration.
   
- Input-Field:-Input tag specifies an input field where the user can enter data.The <input> element is the most important form element.In this project
-  we have multiple input tags like Name,Email,Password,Contact Number.In Name text field we have to fill our name.In email field we have to fill email id for registration.
-  In password field we have to fill strong password for create an account.In contact field we have to fill our mobile number for authentication.
+ Input-Field:- Input tag specifies an input field where the user can enter data.The <input> element is the most important form element.In this    project
+  we have multiple input tags like Name,Email,Password,Contact Number.In Name text field we have to fill our name.In email field we have to      fill email id for registration.
+  In password field we have to fill strong password for create an account.In contact field we have to fill our mobile number for                  authentication.
 
-   Buttons:-In this project we use multiple buttons.Like the login button is use for log-in in website.Using a register button to register user information.
+   Buttons:-In this project we use multiple buttons.Like the login button is use for log-in in website.Using a register button to register         user information.
   
  ## Deployment
    For creating an account:-
