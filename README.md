@@ -30,11 +30,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## Technology Used
- 1.Java
- 2.HTML
- 3.CSS
- 4.JavaScrpit
- Using servlets and jsp for creating this project.
+  1. Java
+  2. HTML
+  3. CSS
+  4. JavaScrpit
+   Using servlets and jsp for creating this project.
 
 
 ##  Prerequisites
