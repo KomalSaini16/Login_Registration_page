@@ -1,5 +1,5 @@
 # Login_Registration_page
-Login and registration page using servlets and jsp
+Login and registration page using servlets,jsp and Jdbc
 ![bg width:1000px](./signin.png)
 Login Page is very common among any type of secured applications and its widely used on the internet for authenticating the user before presenting the secured pages of the web applications. 
 A login screen is a web page or an entry page to a web/mobile application that requires user identification and authentication, regularly performed by entering a username and password combination.
@@ -73,7 +73,7 @@ Step 8) Click on “LAUNCH” button
    Buttons:-In this project we use multiple buttons.Like the login button is use for log-in in website.Using a register button to register user information.
   
  ## Deployment
-   For crating an account:-
+   For creating an account:-
     ![bg width:500px](./information.png)
    For Signin:-
    ![bg width:500px](./login.png)
