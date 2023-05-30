@@ -7,7 +7,7 @@ A login screen is a web page or an entry page to a web/mobile application that r
 1. [Abstract](#Abstract)
 2. [Introduction](#Introduction)
 3. [Getting Started](#GettingStarted)
-4. [Technology used](#TechnologyUsed)
+4. [Technology used](#Technology_Used)
 5. [Steps to Develop loginpage](#Steps_to_Develop_loginpage)
 6. [Login page and Registration page usage](#Login_page_and_Registration_page_usage)
 7. [Deployment](#Deployment)
