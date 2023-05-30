@@ -64,7 +64,7 @@ Step 8) Click on “LAUNCH” button
 
 ## Login page and Registration page usage
 
- Form-Tag:- The <form> tag is used to create a form for user.In this project we use form tag for login and registration page.here user can       input their information for registration.
+ Form-Tag:-The<form> tag is used to create a form for user.In this project we use form tag for login and registration page.here user can       input their information for registration.
   
  Input-Field:- Input tag specifies an input field where the user can enter data.The <input> element is the most important form element.In this    project
   we have multiple input tags like Name,Email,Password,Contact Number.In Name text field we have to fill our name.In email field we have to      fill email id for registration.
