@@ -102,5 +102,5 @@ Step 8) Click on “LAUNCH” button
 
  #### I would like to express my deepest gratitude to every coder.
 
- ####@Skill-Lync
+ #### @Skill-Lync
  #### References -Quick Notepad tutorial.
